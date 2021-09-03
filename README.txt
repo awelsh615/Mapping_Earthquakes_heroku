@@ -1,2 +1,0 @@
-# Heroku App Practice
-README
